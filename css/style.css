@@ -1,0 +1,41 @@
+*{
+    font:20px Arial sans-serif;
+}
+
+.navbar-img{
+    width:260px;
+    height:80px;
+}
+
+.navbar{
+    background-color: #5FB404;
+}
+
+.quem-somos{
+    background-color: #8181f7;
+    color:white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.quem-somos-img {
+    width:400px;
+    height: 400px;
+}
+
+.parceiros{
+    background-color: #58FAF4;
+}
+
+.container-img{
+    width:100%;
+    margin:10px;
+}
+
+.bg-footer{
+    background-color: black;
+    color:white;
+}
